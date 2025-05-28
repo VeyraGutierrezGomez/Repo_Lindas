@@ -21,32 +21,32 @@ Este repositorio contiene una colección de proyectos desarrollados en Java como
 ### Inventario_Cuarto_JELZ
 Sistema de gestión de inventario personal con **interfaz gráfica** y conexión a **base de datos MySQL**. Permite registrar, visualizar, editar y eliminar objetos categorizados. Usa Java Swing para la GUI y PHPMyAdmin para gestionar la base de datos.
 
-- ✅ Interfaz gráfica (Java Swing)
-- ✅ Conexión a base de datos (XAMPP - MySQL)
+- Interfaz gráfica (Java Swing)
+- Conexión a base de datos (XAMPP - MySQL)
 
 ### Inventario_Cuarto_VMGG
 Versión local del sistema de inventario, también con **interfaz gráfica**, pero sin conexión a base de datos. Enfocado al registro visual de artículos personales usando estructuras de programación orientada a objetos.
 
-- ✅ Interfaz gráfica (Java Swing)
-- ❌ Sin conexión a base de datos
+- Interfaz gráfica (Java Swing)
+- Sin conexión a base de datos
 
 ### Sistema_Bancario
 Sistema bancario simulado con **interfaz gráfica**. Desarrollado exclusivamente para ejecutarse en **NetBeans**. Permite gestionar difrentes perfiles de un banco como administrador, subgerentes, usuario, app móvil y ventanilla bancaria.
 
-- ✅ Interfaz gráfica
-- ❌ Sin conexión a base de datos
+- Interfaz gráfica
+- Sin conexión a base de datos
 
 ### Sistema_Biblioteca_JELZ
 Sistema de gestión de biblioteca **por consola**. Incluye registro de usuarios y libros, así como control básico de préstamos. Enfocado al uso de clases y lógica estructurada.
 
-- ❌ Sin interfaz gráfica
-- ❌ Sin base de datos
+- Sin interfaz gráfica
+- Sin base de datos
 
 ### Sistema_Consultorio_Medico_JELZ
 Sistema completo para la gestión de citas médicas con conexión a **base de datos MySQL**. Se ejecuta en consola desde IntelliJ, pero incluye interacción con una base de datos para manejar citas, historiales, pacientes y pagos. Utiliza el servidor local **XAMPP** con phpMyAdmin.
 
-- ❌ Interfaz gráfica
-- ✅ Conexión a base de datos (XAMPP - MySQL)
+- Interfaz gráfica
+- Conexión a base de datos (XAMPP - MySQL)
 
 ---
 
