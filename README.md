@@ -52,7 +52,7 @@ Sistema completo para la gestión de citas médicas con conexión a **base de da
 
 ## Instrucciones de ejecución
 
-### Proyectos con interfaz gráfica (`Inventario` y `Sistema Bancario`)
+### Proyectos con interfaz gráfica (Inventario y Sistema Bancario)
 
 1. Abre **Apache NetBeans IDE 17**.
 2. Ve a Archivo > Abrir Proyecto y selecciona la carpeta del proyecto (descomprime el .zip si es necesario).
